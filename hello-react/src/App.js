@@ -4,6 +4,7 @@ import './App.css';
 
 class App extends Component {
   //변경1
+  //변경2
   render() {
     return (
       <div className="App">
